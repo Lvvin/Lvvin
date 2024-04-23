@@ -15,4 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Java         1 hr 10 mins    ████████████████████████▓   98.00 %
+Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
