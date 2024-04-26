@@ -21,9 +21,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java         1 hr 8 mins     ████████████████████████▓   98.56 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              2 hrs 52 mins   ███████████████████████▓░   95.26 %
+textmate          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
