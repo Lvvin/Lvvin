@@ -21,10 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 11 mins    ████████████████████████▓   99.14 %
-Properties        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
