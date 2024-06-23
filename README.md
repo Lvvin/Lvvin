@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             39 hrs 32 mins  ██████████████████▒░░░░░░   73.97 %
-YAML             10 hrs 4 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-XML              3 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Docker           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-SQL              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Java                 38 hrs 20 mins  ███████████████████░░░░░░   75.85 %
+YAML                 10 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+XML                  1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Docker               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+GitIgnore file       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
