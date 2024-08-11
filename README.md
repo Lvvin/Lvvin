@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   3 hrs 5 mins    █████████████░░░░░░░░░░░░   51.98 %
-Java   1 hr 53 mins    ████████░░░░░░░░░░░░░░░░░   31.72 %
-XML    58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+YAML   2 hrs 28 mins   ██████████████▒░░░░░░░░░░   56.69 %
+Java   1 hr 14 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
+XML    39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
 <!--END_SECTION:waka-->
