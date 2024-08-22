@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   3 hrs 5 mins    █████████████████▒░░░░░░░   68.79 %
+YAML   1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   31.21 %
 ```
 
 <!--END_SECTION:waka-->
