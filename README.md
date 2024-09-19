@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       58 hrs 18 mins  ██████████████████████░░░   87.89 %
-YAML       6 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-SQL        1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-XML        25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java     37 hrs 49 mins  █████████████████████▒░░░   85.39 %
+YAML     4 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+SQL      1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+XML      9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
