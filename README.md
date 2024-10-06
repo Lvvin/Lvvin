@@ -21,11 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       13 hrs 36 mins  ███████████████████████▒░   93.69 %
-PATCH      42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-XML        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
